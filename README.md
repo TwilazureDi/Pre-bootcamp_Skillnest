@@ -1,7 +1,20 @@
-# Mariangel_Faro_Python
+# Pre-Bootcamp Data analyst Skillnest
+Ejercicios realizados para el pre-bootcamp de Data Analyst de Skillnest. 
+Centrado en el aprendizaje y ejecucion basica de Python. 
 
-Bienvenido a mi proyecto! 
+## Tabla de contenido
+- Herramientas
+- Actividades practicas
+  - Github
+  - Visual Studio
+  - Python
+  - Extra  
+- Agradecimientos
 
-Aqui podra encontrar las **practicas** y **ejercicios(Core)** de Skillnest organizadas por carpetas. 
+## Herramientas
+- Python 3.14
+- Visual Studio 2022
+- Github Desktop
 
-Tanto los archivos .py, como archivos de texto y capturas de pantallas de las actividades realizadas. 
+## Agradecimientos y contribuciones 
+Agradecimientos a Forge Fundation y Skillnest por permitirme formar parte de este programa
