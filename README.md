@@ -6,12 +6,12 @@ Ejercicios realizados para el pre-bootcamp de Data Analyst de Skillnest.
 Centrado en el aprendizaje y ejecucion basica de Python. 
 
 ## Tabla de contenido
-- Herramientas
-- Actividades practicas
-  - Github
-  - Visual Studio
-  - Python
-  - Extra  
+- Pre-Bootcamp Data Analyst Skillnest
+  - Herramientas
+  - Actividades practicas
+    - Github
+    - Visual Studio
+    - Python
 - Agradecimientos
 
 ## Herramientas
@@ -23,19 +23,19 @@ Centrado en el aprendizaje y ejecucion basica de Python.
 Las actividades practicas realizadas se centraron en el uso basico de Visual Studio, Github y python. 
 
 ### Git - Github
-Abarca la creacion y subida de repositorios en github. Su gestion mediante las acciones: commit, pull y push. 
+Prueba de ello es la creacion de este repositorio y su gestion mediante las acciones: commit, pull y push. 
 
 ### Visual Studio
-Cofiguracion de la IDE para la lectura y ejecucion de archivos .py e instalacion de extensiones. 
+Cofiguracion de la IDE para la lectura y ejecucion de archivos .py por consola de ecomandos e instalacion de extensiones. 
 
 ### Python 
-Abarca los fundamentos de Python como:
+Se puso a prueba los fundamentos de Python mediantes ejercicios orientados a practicar: 
 - Sintaxis basica
 - condicionales
 - bucles
 - Funciones
   
-Asi como fundamentos para la programacion orientada a objetos como:
+Asi como los fundamentos para la programacion orientada a objetos (POO):
 - Clases
 - Herencia
 - Modulos
@@ -44,4 +44,4 @@ Asi como fundamentos para la programacion orientada a objetos como:
 
 
 ## Agradecimientos y contribuciones 
-Agradecimientos a Forge Fundation y Skillnest por permitirme formar parte de este programa
+Agradecimientos a Forge Fundation y Skillnest por darme la oportunidad de formar parte de este programa
