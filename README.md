@@ -6,12 +6,12 @@ Exercises done for Skillnest's Data Analyst pre-bootcamp. Focused on learning of
 ## Table of Contents
 - [Pre-Bootcamp Data Analyst Skillnest](#pre-bootcamp-data-analyst-skillnest)
   - [Tools](#tools) 
-  - [Practical Activities](#actividades-practicas)
+  - [Practical Activities](#practical-activities)
     - [Github](#github)
     - [Visual Studio](#visual-studio)
     - [Python](#python)
 - [acknowledgments](#acknowledgments)
-- [License](#license)
+- [License](#lincese)
 
 ## Tools
 - Python 3.14
