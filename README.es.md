@@ -1,6 +1,5 @@
 # Pre-Bootcamp Data analyst Skillnest
 [![en](https://img.shields.io/badge/lang-en-green)](README.md)
-[![es](https://img.shields.io/badge/lang-es-blue)](README.es.md)
 
 Ejercicios realizados para el pre-bootcamp de Data Analyst de Skillnest. 
 Centrado en el aprendizaje y ejecucion basica de Python. 
@@ -48,3 +47,6 @@ Asi como los fundamentos para la programacion orientada a objetos (POO):
 
 ## Agradecimientos y contribuciones 
 Agradecimientos a [Forge Fundation](https://fforge.org/) y [Skillnest](https://www.skillnest.com/) por darme la oportunidad de formar parte de este programa
+
+## Licencia
+[MIT © TwilazureDi](/LICENSE)
