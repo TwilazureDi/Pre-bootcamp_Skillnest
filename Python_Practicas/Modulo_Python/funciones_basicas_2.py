@@ -1,6 +1,3 @@
-from unicodedata import digit
-
-
 print("Al ejecutar estre script podra encontrar el ejercicio practica Funciones Basicas 2")
 print(" ")
 print("Debido a la longitud de los ejercicios, dejare unas variables booleanos para visualizar cada ejercicio en el codigo")
