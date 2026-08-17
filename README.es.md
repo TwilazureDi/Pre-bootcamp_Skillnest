@@ -11,7 +11,7 @@ Centrado en el aprendizaje y ejecucion basica de Python.
     - [Github](#github)
     - [Visual Studio](#visual-studio)
     - [Python](#python)
-- [Agradecimientos](#agradecimientos-y-contribuciones)
+- [Agradecimientos](#agradecimientos)
 
 ## Herramientas
 - Python 3.14
@@ -45,7 +45,7 @@ Asi como los fundamentos para la programacion orientada a objetos (POO):
 
 [Python_Practicas](https://github.com/TwilazureDi/Pre-bootcamp_Skillnest/tree/main/Python_Practicas)
 
-## Agradecimientos y contribuciones 
+## Agradecimientos
 Agradecimientos a [Forge Fundation](https://fforge.org/) y [Skillnest](https://www.skillnest.com/) por darme la oportunidad de formar parte de este programa
 
 ## Licencia
