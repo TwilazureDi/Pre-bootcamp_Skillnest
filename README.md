@@ -1,4 +1,7 @@
 # Pre-Bootcamp Data analyst Skillnest
+[![en](https://img.shields.io/badge/lang-en-green)](README.md)
+[![es](https://img.shields.io/badge/lang-es-blue)](README.es.md)
+
 Ejercicios realizados para el pre-bootcamp de Data Analyst de Skillnest. 
 Centrado en el aprendizaje y ejecucion basica de Python. 
 
